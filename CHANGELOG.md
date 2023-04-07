@@ -1,3 +1,8 @@
+# 0.1.1
+Fixed a small little bug that CAUSED THIS ENTIRE PATCH TO NOT WORK.
+
+Special thanks to Seafood for reporting the bug on the Discord.
+
 # 0.1.0
 This unofficial patch aims to bring PTR (2.1.27) up-to-date with the latest Legends (16.2.3 Smoke and Faith).
 

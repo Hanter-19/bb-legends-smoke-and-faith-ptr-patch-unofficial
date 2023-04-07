@@ -15,7 +15,7 @@ Requires the following mods:
 - [Legends Perk Trees Rework (PTR)](https://www.nexusmods.com/battlebrothers/mods/479) (Version 2.1.27 only)
 
 ## Discussion / Feedback / Bug Reports
-Please tag @Hanter in the [submod_chat channel](https://discord.com/channels/547043336465154049/616566479306883073) in the BB Legends Mod Discord Channel to report any issues or provide feedback.
+Please tag @Hanter in the [dedicated thread](https://discord.com/channels/547043336465154049/1092194254358585394) or the [submod_chat channel](https://discord.com/channels/547043336465154049/616566479306883073) in the BB Legends Mod Discord Channel to report any issues or provide feedback.
 
 ## Credits
 Created by [Hanter](https://github.com/Hanter-19)
