@@ -1,5 +1,5 @@
 ::PTRSAFPatch <- {
-	Version = "0.1.0",
+	Version = "0.1.1",
 	ID = "mod_ptr_saf_patch_unofficial",
 	Name = "Unnoficial PTR Smoke And Faith Patch"
 }
@@ -11,7 +11,7 @@
 	::PTRSAFPatch.Mod <- ::MSU.Class.Mod(::PTRSAFPatch.ID, ::PTRSAFPatch.Version, ::PTRSAFPatch.Name);
 
 	::PTRSAFPatch.Mod.Registry.addModSource(::MSU.System.Registry.ModSourceDomain.GitHub, "https://github.com/Hanter-19/bb-legends-smoke-and-faith-ptr-patch-unofficial");
-	::LegendsFavouredEnemyRefund.Mod.Registry.setUpdateSource(::MSU.System.Registry.ModSourceDomain.GitHub);
+	::PTRSAFPatch.Mod.Registry.setUpdateSource(::MSU.System.Registry.ModSourceDomain.GitHub);
 
 	::include("mod_ptr_saf_patch/load.nut");
 
