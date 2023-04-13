@@ -1,3 +1,10 @@
+# 0.1.2
+## Steel Brow Rework
+- Legends reworked Steel Brow in 16.2.4 to convert Stun to Daze whenever a character with Steel Brow receives a Stun.
+- This is an additional effect on top of PTR's Steel Brow changes (passive immunity to Cull).
+- Updated the perk and effect descriptions/tooltips to reflect this.
+- Note that as of Legends 16.2.4, the new Steel Brow effect mini icon above the character's head in battle is still using a placeholder Lone Wolf mini icon (same for the new Lurker effect for Assassins).
+
 # 0.1.1
 Fixed a small little bug that CAUSED THIS ENTIRE PATCH TO NOT WORK.
 
