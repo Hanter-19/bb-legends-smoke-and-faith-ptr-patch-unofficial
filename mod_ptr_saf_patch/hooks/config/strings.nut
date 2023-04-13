@@ -1,0 +1,3 @@
+// Steel Brow rework changes
+::Const.Strings.PerkDescription.SteelBrow = "\'I can take it!\'\n\n[color=" + ::Const.UI.Color.Passive + "][u]Passive:[/u][/color]\n• Hits to the head no longer cause critical damage to this character, which also lowers the risk of sustaining debilitating head injuries significantly.\n• Grants passive immunity against Cull.\n• Any Stun applied to this character is converted to Daze instead.";
+::Const.Perks.PerkDefObjects[::Const.Perks.PerkDefs.SteelBrow].Tooltip = ::Const.Strings.PerkDescription.SteelBrow;

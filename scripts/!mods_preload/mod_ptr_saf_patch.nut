@@ -1,5 +1,5 @@
 ::PTRSAFPatch <- {
-	Version = "0.1.1",
+	Version = "0.1.2",
 	ID = "mod_ptr_saf_patch_unofficial",
 	Name = "Unnoficial PTR Smoke And Faith Patch"
 }
