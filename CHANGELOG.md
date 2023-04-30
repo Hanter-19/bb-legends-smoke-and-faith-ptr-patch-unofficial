@@ -1,3 +1,8 @@
+# 0.1.3
+## Estoc 2H Revert
+- Revert Estoc (and named Estoc) to 2H weapon
+    - This means that characters who have the fencer perk (including enemies) will no longer get 3 AP Estoc Lunges
+
 # 0.1.2
 ## Steel Brow Rework
 - Legends reworked Steel Brow in 16.2.4 to convert Stun to Daze whenever a character with Steel Brow receives a Stun.
