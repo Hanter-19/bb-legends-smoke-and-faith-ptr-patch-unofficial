@@ -1,3 +1,13 @@
+# 0.2.0
+## Legends 16.3.3
+- **REQUIRES LEGENDS 16.3.3 AND ABOVE ONLY**
+    - If you are running any older version of Legends, do **not** use this version (and future versions) of this patch.
+- Legends team have decided to remove the "dynamic perks" option and make it enabled by default from now on to improve maintainability.
+- This change broke PTR which checks for that option.
+- This fix will patch PTR code to no longer check for that option, which should make PTR playable with Legends 16.3.3
+- Super duper big thanks to Legends dev James Luong for bringing this to my attention, and to Emo Used HM01 for pointing me to the message I missed!!!
+- Note that the other feature changes in Legends 16.3.3, such as background perks, may still be overwritten by PTR 2.1.27 until I release another patch to port those changes over.
+
 # 0.1.3
 ## Estoc 2H Revert
 - Revert Estoc (and named Estoc) to 2H weapon

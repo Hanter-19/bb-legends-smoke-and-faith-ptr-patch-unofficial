@@ -1,12 +1,12 @@
 ::PTRSAFPatch <- {
-	Version = "0.1.3",
+	Version = "0.2.0",
 	ID = "mod_ptr_saf_patch_unofficial",
 	Name = "Unnoficial PTR Smoke And Faith Patch"
 }
 
 ::mods_registerMod(::PTRSAFPatch.ID, ::PTRSAFPatch.Version, ::PTRSAFPatch.Name);
 
-::mods_queue(::PTRSAFPatch.ID, "mod_msu(>=1.2.4), mod_legends(>=16.2.3), mod_legends_PTR(=2.1.27)", function() {
+::mods_queue(::PTRSAFPatch.ID, "mod_msu(>=1.2.4), mod_legends(>=16.3.3), mod_legends_PTR(=2.1.27)", function() {
 
 	::PTRSAFPatch.Mod <- ::MSU.Class.Mod(::PTRSAFPatch.ID, ::PTRSAFPatch.Version, ::PTRSAFPatch.Name);
 
