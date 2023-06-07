@@ -1,5 +1,24 @@
+# 0.3.0
+## Legends 16.4.0+
+** REQUIRES LEGENDS 16.4.0 AND ABOVE ONLY**
+This is because of the newly reworked and reintroduced Unarmed perk tree.
+
+### Unarmed Combat Rework/Reintroduction
+Thanks to Legends Dev James Luong, the Unarmed perk tree has been reworked! PTR removed Unarmed in the past, but since this is an unofficial patch, I'm adding in the reworked Unarmed tree and you can decide for yourself if it fits in well with PTR.
+
+The Unarmed tree will not spawn randomly. It is hard-coded to only and always appear for the following backgrounds:
+- Berserker Commander
+- Brawler
+- Indebted
+- Wildman
+- Wildwoman
+- Berserker from Adventuring Party Origin 
+>Note: this was not in Legends 16.4.0; I think it was an oversight and have raised it with James and am yet to hear back from him. I'm making an executive decision for the Unofficial PTR Patch to include it anyway)
+
+Basically the same as Legends.
+
 # 0.2.0
-## Legends 16.3.3
+## Legends 16.3.3+
 - **REQUIRES LEGENDS 16.3.3 AND ABOVE ONLY**
     - If you are running any older version of Legends, do **not** use this version (and future versions) of this patch.
 - Legends team have decided to remove the "dynamic perks" option and make it enabled by default from now on to improve maintainability.
