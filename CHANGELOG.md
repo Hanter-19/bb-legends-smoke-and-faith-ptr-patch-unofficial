@@ -1,3 +1,10 @@
+# 0.3.1
+## Hotfix
+- Hotfix because I am a silly goose and forgot to internally update the version of this mod.
+- If you were playing with 0.3.0 previously and kept getting the notification upon starting the game that a newer version is available, this fix will make that go away.
+- Absolutely no impact on gameplay otherwise; safe to apply to any campaign that already started with 0.3.0.
+- Note that if for any reason you are running an older version of the patch to sustain an ongoing campaign, you will keep getting the notification.
+
 # 0.3.0
 ## Legends 16.4.0+
 ** REQUIRES LEGENDS 16.4.0 AND ABOVE ONLY**
