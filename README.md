@@ -1,5 +1,7 @@
 # Battle Brothers Legends Mod - Unofficial Patch for Perk Trees Rework (PTR) 2.1.27
 
+### UPDATE: The PTR team have resumed support for PTR-Legends, so this mod is no longer necessary.
+
 ## About
 The Battle Brothers Legends Mod recently released the Smoke and Faith update (16.2.3). So far, there has been no official announcement on whether PTR (currently 2.1.27) will be updated, as the PTR team are busy working on their new overhaul mod. This leaves us with no choice but to wallow in existential dread as we contemplate our increasingly precarious future in these difficult times. I also decided to try making an unofficial patch for fun.
 
